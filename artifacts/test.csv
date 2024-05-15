@@ -1,0 +1,129 @@
+Company,TypeName,Inches,Width,Height,isTouchscreen,CpuProducer,CpuSpeed (GHz),MemorySize1,MemoryType1,MemorySize2,MemoryType2,GpuProducer,Ram (GB),Weight (kg),Price_euros
+HP,Notebook,15.6,1920,1080,False,Intel,2.0,1024,HDD,0,NoType,Intel,4,1.9,469.0
+Dell,Notebook,15.6,1920,1080,False,Intel,1.6,1024,HDD,0,NoType,AMD,4,2.2,776.0
+Other,Notebook,15.6,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Nvidia,8,2.0,1199.0
+Dell,Notebook,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,2.2,795.0
+Dell,Notebook,14.0,1920,1080,False,Intel,2.6,256,SSD,0,NoType,Intel,8,1.6,1279.73
+HP,Notebook,13.3,1920,1080,False,Intel,2.4,128,SSD,0,NoType,Intel,4,1.5,719.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.9,256,SSD,0,NoType,Nvidia,8,2.7,2090.0
+Asus,Notebook,15.6,1920,1080,False,Intel,2.4,1024,HDD,0,NoType,Nvidia,8,2.3,597.0
+Dell,Notebook,15.6,1920,1080,False,Intel,1.8,128,SSD,2048,HDD,AMD,8,2.0,970.9
+Acer,Notebook,15.6,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Intel,4,2.2,682.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.5,500,HDD,0,NoType,AMD,8,1.9,1154.0
+Asus,Gaming,17.3,1920,1080,True,Intel,2.6,256,SSD,1024,HDD,Nvidia,24,4.3,1269.0
+Dell,Gaming,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Nvidia,8,2.6,879.0
+Toshiba,Notebook,13.3,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,1.0,1475.0
+Toshiba,Notebook,15.6,1366,768,False,Intel,2.3,256,SSD,0,NoType,Intel,8,2.2,1119.0
+Asus,Gaming,15.6,1920,1080,False,Intel,2.8,128,SSD,1024,HDD,Nvidia,8,2.3,1655.0
+Dell,Ultrabook,14.0,2560,1440,True,Intel,2.6,256,SSD,0,NoType,Intel,8,1.5,1962.98
+HP,2 in 1 Convertible,13.3,2560,1440,True,Intel,2.6,512,SSD,0,NoType,Intel,8,1.5,2041.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.7,512,SSD,0,NoType,Intel,8,2.0,1729.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.0,128,SSD,0,NoType,Intel,4,1.8,403.5
+Dell,Notebook,14.0,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,1.6,859.0
+Acer,Notebook,15.6,1920,1080,False,Intel,2.7,1024,HDD,0,NoType,Nvidia,4,2.2,530.0
+Acer,Gaming,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Nvidia,8,2.5,846.0
+HP,Notebook,17.3,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Nvidia,8,2.6,1080.0
+Lenovo,2 in 1 Convertible,13.9,1920,1080,True,Intel,2.7,256,SSD,0,NoType,Intel,8,1.4,1349.0
+Dell,2 in 1 Convertible,12.5,1920,1080,True,Intel,2.5,256,SSD,0,NoType,Intel,8,1.3,1670.0
+MSI,Gaming,15.6,1920,1080,False,Intel,2.6,128,SSD,1024,HDD,Nvidia,16,1.9,2153.37
+Asus,Gaming,17.3,1920,1080,False,Intel,2.7,1024,SSD,0,NoType,Nvidia,64,3.6,3975.0
+Dell,Notebook,15.6,1366,768,False,Intel,2.4,1024,HDD,0,NoType,Intel,6,2.3,459.0
+HP,Notebook,15.6,1920,1080,False,AMD,2.7,1024,HDD,0,NoType,AMD,6,2.1,529.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,1.8,1228.99
+HP,Workstation,15.6,1920,1080,False,Intel,2.6,256,SSD,0,NoType,Nvidia,8,2.6,2229.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.5,128,SSD,1024,HDD,Nvidia,8,2.3,819.0
+Dell,Notebook,15.6,1920,1080,False,Intel,1.6,256,SSD,0,NoType,AMD,8,2.2,797.41
+Lenovo,Ultrabook,12.5,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,1.4,1429.0
+Dell,2 in 1 Convertible,13.3,1920,1080,True,Intel,1.6,256,SSD,0,NoType,Intel,8,1.6,819.0
+Lenovo,Ultrabook,14.0,2560,1440,False,Intel,2.5,512,SSD,0,NoType,Intel,8,1.2,1686.64
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.5,2048,HDD,0,NoType,Intel,8,2.2,519.0
+Toshiba,Notebook,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,2.0,943.0
+Lenovo,Notebook,15.6,1920,1080,False,AMD,2.9,256,SSD,0,NoType,AMD,4,2.2,399.0
+Dell,Gaming,17.3,1920,1080,False,Intel,2.8,1024,SSD,1024,HDD,Nvidia,32,4.4,3588.8
+Dell,Workstation,15.6,3840,2160,True,Intel,2.8,256,SSD,0,NoType,Nvidia,8,1.8,2712.0
+Dell,Notebook,15.6,1920,1080,False,Intel,2.7,1024,HDD,0,NoType,Nvidia,8,2.0,961.0
+Apple,Ultrabook,12.0,2304,1440,False,Intel,1.2,512,Flash Storage,0,NoType,Intel,8,0.9,1279.0
+Acer,Notebook,15.6,1920,1080,False,Intel,1.8,256,SSD,0,NoType,Nvidia,8,2.2,841.0
+Lenovo,Notebook,14.0,1920,1080,False,Intel,2.5,180,SSD,0,NoType,Intel,8,1.7,1364.0
+Asus,Notebook,14.0,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Intel,8,1.4,941.0
+HP,Notebook,14.0,1366,768,False,Intel,2.5,500,HDD,0,NoType,Intel,4,2.0,1060.0
+Lenovo,Notebook,14.0,1920,1080,False,Intel,2.3,180,SSD,0,NoType,Intel,8,1.7,1199.0
+Dell,Gaming,15.6,1920,1080,False,Intel,2.8,128,SSD,1024,HDD,Nvidia,16,2.6,1349.0
+Lenovo,Gaming,15.6,1920,1080,False,AMD,2.1,512,SSD,1024,HDD,AMD,16,2.5,999.0
+Asus,Notebook,14.0,1920,1080,False,Intel,2.7,256,SSD,1024,HDD,Intel,8,2.0,1334.0
+Acer,Notebook,15.6,1366,768,False,Intel,1.1,500,HDD,0,NoType,Intel,4,2.4,380.0
+Asus,Gaming,17.3,1920,1080,False,Intel,2.8,128,SSD,1024,HDD,Nvidia,8,3.0,1168.0
+Lenovo,Gaming,15.6,1920,1080,False,Intel,2.5,1024,HDD,0,NoType,Nvidia,8,2.4,819.0
+HP,Notebook,14.0,1366,768,False,Intel,1.6,32,Flash Storage,0,NoType,Intel,2,1.4,249.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.7,1024,HDD,0,NoType,Nvidia,8,2.2,659.01
+HP,Notebook,15.6,1920,1080,False,AMD,1.5,500,HDD,0,NoType,AMD,4,2.1,349.0
+Dell,Ultrabook,14.0,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Intel,8,1.6,1149.0
+Lenovo,Notebook,15.6,1366,768,False,Intel,2.0,1024,HDD,0,NoType,Intel,4,1.9,339.0
+HP,2 in 1 Convertible,13.3,1366,768,True,Intel,2.5,256,SSD,0,NoType,Intel,8,1.6,836.6
+HP,Ultrabook,13.3,1920,1080,True,Intel,2.7,256,SSD,0,NoType,Intel,8,1.1,1349.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.0,1024,HDD,0,NoType,Intel,4,2.1,478.0
+Other,Notebook,13.3,1920,1080,False,Intel,1.1,32,SSD,0,NoType,Intel,4,1.2,369.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.5,128,SSD,1024,HDD,AMD,8,1.9,817.95
+MSI,Gaming,17.3,1920,1080,False,Intel,2.6,256,SSD,0,NoType,Nvidia,8,2.6,1599.0
+HP,Workstation,17.3,1920,1080,False,Intel,2.6,256,SSD,0,NoType,Nvidia,8,3.0,3949.4
+HP,Workstation,17.3,1600,900,False,Intel,2.8,500,HDD,0,NoType,Nvidia,8,3.1,1860.99
+Asus,Notebook,15.6,1366,768,False,Intel,2.4,1024,HDD,0,NoType,Intel,4,2.0,435.0
+HP,Notebook,14.0,1366,768,False,Intel,2.4,256,SSD,0,NoType,Intel,4,1.5,1099.99
+Apple,Ultrabook,12.0,2304,1440,False,Intel,1.3,512,SSD,0,NoType,Intel,8,0.9,1510.0
+HP,Gaming,17.3,1920,1080,False,Intel,2.8,256,SSD,1024,HDD,Nvidia,16,3.4,1379.0
+Other,Ultrabook,13.3,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Nvidia,8,1.3,999.9
+Lenovo,2 in 1 Convertible,15.6,1920,1080,True,Intel,2.8,512,SSD,0,NoType,Nvidia,8,2.0,1699.0
+HP,Notebook,17.3,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Nvidia,8,2.5,923.0
+Acer,2 in 1 Convertible,13.3,1920,1080,True,Intel,1.6,256,SSD,0,NoType,Intel,8,1.6,999.0
+Acer,Notebook,17.3,1920,1080,False,Intel,2.7,256,SSD,0,NoType,Nvidia,4,3.0,702.0
+Lenovo,2 in 1 Convertible,14.0,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Intel,8,1.7,899.0
+Dell,Notebook,15.6,1366,768,False,Intel,2.5,1024,HDD,0,NoType,Intel,12,2.2,649.0
+Lenovo,2 in 1 Convertible,14.0,1920,1080,True,Intel,2.3,128,SSD,0,NoType,Intel,4,1.8,833.01
+Other,Notebook,15.6,1366,768,False,Intel,2.5,1024,HDD,0,NoType,Intel,8,2.2,739.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.0,500,HDD,0,NoType,Intel,4,1.9,397.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.6,256,SSD,0,NoType,AMD,8,1.8,1349.0
+MSI,Gaming,17.3,1920,1080,False,Intel,2.8,256,SSD,2048,HDD,Nvidia,16,2.4,2449.0
+Dell,2 in 1 Convertible,15.6,1920,1080,True,Intel,1.6,256,SSD,0,NoType,Intel,8,2.7,799.0
+Dell,Gaming,15.6,1920,1080,False,Intel,2.5,128,SSD,1024,HDD,Nvidia,16,3.2,2051.0
+Asus,Gaming,17.3,1920,1080,False,Intel,2.5,128,SSD,1024,HDD,Nvidia,8,2.7,1770.0
+HP,Netbook,12.5,1366,768,False,Intel,2.3,128,SSD,0,NoType,Intel,4,2.4,1599.0
+Other,Netbook,11.6,1366,768,False,Intel,1.6,16,Flash Storage,0,NoType,Intel,4,1.2,269.0
+Asus,Notebook,17.3,1366,768,False,Intel,1.1,1024,HDD,0,NoType,Nvidia,4,2.8,466.0
+Dell,Notebook,15.6,1920,1080,False,Intel,2.7,256,SSD,0,NoType,AMD,8,2.2,749.01
+Acer,Gaming,17.3,1920,1080,False,Intel,2.8,256,SSD,1024,HDD,Nvidia,16,4.2,2299.0
+Acer,Netbook,11.6,1366,768,False,Intel,1.6,32,Flash Storage,0,NoType,Intel,4,1.4,269.0
+HP,Ultrabook,15.6,1920,1080,False,Intel,1.8,256,SSD,0,NoType,Nvidia,8,1.8,699.0
+Dell,Notebook,15.6,1920,1080,False,Intel,2.7,256,SSD,0,NoType,AMD,8,2.3,778.87
+HP,Notebook,15.6,1920,1080,False,Intel,2.8,128,SSD,1024,HDD,Nvidia,12,2.2,1327.0
+Dell,Ultrabook,13.3,1920,1080,False,Intel,1.8,256,SSD,0,NoType,Intel,8,1.2,1579.0
+Asus,Gaming,17.3,1920,1080,False,Intel,2.9,256,SSD,0,NoType,Nvidia,16,3.6,2999.0
+Acer,Notebook,15.6,1920,1080,False,Intel,1.8,1024,HDD,0,NoType,Nvidia,8,2.2,745.0
+Other,2 in 1 Convertible,11.6,1920,1080,True,Intel,1.1,32,SSD,0,NoType,Intel,4,1.2,299.0
+Toshiba,Notebook,15.6,1366,768,False,Intel,2.1,128,SSD,0,NoType,Intel,4,2.1,498.0
+Dell,Notebook,17.3,1920,1080,False,Intel,1.8,256,SSD,2048,HDD,AMD,16,2.8,1396.0
+Dell,Workstation,15.6,1920,1080,False,Intel,2.7,256,SSD,0,NoType,Nvidia,16,2.2,1975.0
+Lenovo,Notebook,13.3,1920,1080,False,Intel,2.5,128,SSD,0,NoType,Intel,4,1.4,881.0
+Acer,Gaming,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Nvidia,16,2.5,1299.0
+Dell,Ultrabook,13.3,1920,1080,False,Intel,1.8,256,SSD,0,NoType,Intel,8,1.2,1449.0
+Toshiba,Notebook,15.6,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,2.0,1258.0
+HP,Notebook,15.6,1366,768,False,Intel,1.6,2048,HDD,0,NoType,Intel,8,2.0,389.0
+HP,2 in 1 Convertible,13.3,1920,1080,True,Intel,2.8,256,SSD,0,NoType,Intel,16,1.3,1975.0
+Dell,Notebook,14.0,1920,1080,False,Intel,2.8,256,SSD,0,NoType,Nvidia,8,1.6,1089.0
+HP,Netbook,11.6,1366,768,False,Intel,1.6,32,Flash Storage,0,NoType,Intel,2,1.2,209.0
+Acer,2 in 1 Convertible,14.0,1920,1080,True,Intel,1.3,256,SSD,0,NoType,Intel,8,1.2,1149.0
+Lenovo,Notebook,14.0,1366,768,False,Intel,2.3,508,Hybrid,0,NoType,Intel,4,1.7,1002.0
+MSI,Gaming,17.3,1920,1080,False,Intel,2.7,128,SSD,1024,HDD,Nvidia,16,4.5,2349.0
+HP,Notebook,15.6,1920,1080,False,Intel,2.5,1024,HDD,0,NoType,Intel,8,2.0,806.0
+Dell,Ultrabook,14.0,1920,1080,False,Intel,2.5,256,SSD,0,NoType,Intel,8,1.4,1639.0
+Lenovo,Notebook,15.6,1366,768,False,Intel,2.0,500,HDD,0,NoType,Intel,4,1.9,450.0
+Other,Ultrabook,12.5,3840,2160,True,Intel,2.5,512,SSD,0,NoType,Intel,16,1.3,1799.0
+HP,Notebook,17.3,1920,1080,False,Intel,1.8,512,SSD,0,NoType,Nvidia,16,2.5,1271.0
+MSI,Gaming,17.3,1920,1080,False,Intel,2.8,512,SSD,1024,HDD,Nvidia,16,2.9,2415.0
+Dell,2 in 1 Convertible,17.3,1920,1080,True,Intel,1.6,1024,HDD,0,NoType,Nvidia,12,2.8,999.0
+Lenovo,Notebook,15.6,1366,768,False,Intel,1.1,1024,HDD,0,NoType,Intel,4,2.2,309.0
+Lenovo,Notebook,14.0,1920,1080,False,Intel,1.6,256,SSD,0,NoType,Intel,8,1.8,1049.0
+HP,Notebook,17.3,1920,1080,False,Intel,1.6,1024,HDD,0,NoType,Nvidia,8,2.5,896.0
+Asus,Notebook,14.0,1366,768,False,AMD,1.5,32,Flash Storage,0,NoType,AMD,2,1.6,199.0
+Lenovo,Notebook,15.6,1920,1080,False,Intel,2.7,256,SSD,0,NoType,Intel,8,2.0,1097.0
+Dell,Workstation,15.6,1920,1080,True,Intel,2.8,256,SSD,0,NoType,Nvidia,8,2.1,1763.0
+Dell,2 in 1 Convertible,15.6,1920,1080,True,Intel,2.7,256,SSD,0,NoType,Intel,8,2.3,1094.0

@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "filters": {
+        "no_errors": {
+          "()": "{path_to_NonErrorFilter}"
+        }
+    },
+    "formatters": {
+      "simple": { 
+        "format": "%(asctime)s - module: %(module)s - %(lineno)d - logger: %(name)s - %(levelname)s - %(message)s",
+        "datefmt": "%Y-%m-%dT%H:%M:%S%z"
+      },
+      "json": {
+        "()": "{path_to_MyJSONFormatter}",
+        "fmt_keys": {
+          "level": "levelname",
+          "message": "message",
+          "timestamp": "timestamp",
+          "logger": "name",
+          "module": "module",
+          "function": "funcName",
+          "line": "lineno",
+          "thread_name": "threadName"
+        }
+      }
+    },
+    "handlers": {
+      "stderr": {
+        "class": "logging.StreamHandler",
+        "level": "WARNING",
+        "formatter": "simple",
+        "stream": "ext://sys.stderr"
+      },
+      "stdout": {
+        "class": "logging.StreamHandler",
+        "formatter": "simple",
+        "stream": "ext://sys.stdout",
+        "filters": ["no_errors"]
+      },
+      "file": {
+        "class": "logging.handlers.RotatingFileHandler",
+        "level": "DEBUG",
+        "formatter": "json",
+        "filename": "{log_file_path}",
+        "maxBytes": 1000000,
+        "backupCount": 3
+      }
+    },
+    "loggers": {
+      "root": {
+        "level": "DEBUG",
+        "handlers": [
+            "stdout",
+            "stderr",
+            "file"
+        ]
+      }
+    }
+  }
